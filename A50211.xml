@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An historical discourse concerning the prevalency of prayer wherein is shewed that New-Englands late deliverance from the rage of the heathen, is an eminent answer of prayer / by Increase Mather ...</title>
+            <author>Mather, Increase, 1639-1723.</author>
+         </titleStmt>
+         <extent>Approx. 57KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50211</idno><idno type="EEBO-CITATION">12767313</idno>
+  <idno type="VID">93601</idno>
+  <idno type="EEBO-PROQUEST">2240972837</idno>
+  
+            <idno type="STC">Wing M1220</idno>
+            <idno type="STC">ESTC R23543</idno>
+            <idno type="OCLC">12767313</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93601)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An historical discourse concerning the prevalency of prayer wherein is shewed that New-Englands late deliverance from the rage of the heathen, is an eminent answer of prayer / by Increase Mather ...</title>
+                  <author>Mather, Increase, 1639-1723.</author>
+               </titleStmt>
+               <extent>[4], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Foster,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prayer.</term>
+               <term type="topical_term">King Philip's War, 1675-1676.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93601:1"/>
+            <p>
+               <hi>An</hi> HISTORICAL DISCOURSE Concerning the PREVALENCY <hi>OF</hi> PRAYER Wherein is shewed that <hi>New-Englands</hi> late Deliverance from the Rage of the Heathen, is an eminent Answer of Prayer.</p>
+            <p>By INCREASE MATHER <hi>Teacher of a Church in</hi> Boston <hi>in</hi> New-England.</p>
+            <bibl>Psal. 102. 18.</bibl>
+            <q>This shall be written for the Generation to come.</q>
+            <bibl>Jam. 5. 17, 18.</bibl>
+            <q>Elias was a man subject to like pa<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ons as we are, and he prayed earnestly that it might not rain, and it rained not on the Ea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th by the space of three years and six moneths; and he prayed again, and the heaven gave rain, and the earth brought forth her fruit.</q>
+            <q>Preces et Lachrimae sunt Arm<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ecclesiae.</q>
+            <bibl>Ambrosius.</bibl>
+            <q>Oratio est vi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deo grata.</q>
+            <bibl>Tertul</bibl>
+            <p>BOSTON, Printed and sold by <hi>John Foster.</hi> 1677.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:93601:2"/>
+            <pb facs="tcp:93601:2"/>
+            <head>To the Reader.</head>
+            <p>MY Design in the subsequent Discourse, is not to enumerate all the Particulars which might be mentioned, that doe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vince New-England late Deliverance to be a great an<g ref="char:EOLhyphen"/>swer of Prayer: only to take notice of some more eminent Passages of Divine Providence, whereby it doth appear that the God of our salvation hath answered us by terrible things in righ<g ref="char:EOLhyphen"/>teousn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss, against our Heathen Adversaryes. There is now cause for an holy Sollicitude lest security should be the effect of these Dispensations▪ lest we should now say, our Mountain is made strong, and we shall never be moved. Howbeit there is little reason for such imaginations, if things be duly laid to heart: we cannot but remember▪ how near this Tree was to cutting down a year or two agoe; but the Lord of the Vineyard hath at the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st intercession of his Servants <hi>let it alone <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his year also▪</hi> But who can say, how far the Lord may cut and lop &amp; mar our Vine branch<g ref="char:EOLhyphen"/>es before many years be expired? To this day we see not the end of our late bl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eding distresses, and when this day of Trouble shall be over, I for my part, must needs solemnly profess and declare, that I look for another seven times greater, though what it shall be, or how it shall come to pass I cannot t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll; for I pretend not to any Revelation, beyond what they that diligently compare the Word and Works of God together, may attain un<g ref="char:EOLhyphen"/>to. It giv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th me not a little that I should so frequently write and speak in s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch a Strain, but I cannot forbear, <hi>the Lord hath spoken, who can but prophesy?</hi> There are many Considerations, which are enough to cause sad expectations of some more fatal changes of Providence not far off, but especially these two,</p>
+            <p n="1">
+               <pb facs="tcp:93601:3"/>1. There is not a general Reformation in New-England so much as in any one Particular, notwithstanding the Lord hath tryed us by all manner of wayes that may be thought of, even by lesser and greater Judgments, and by signal mercyes and Deliverances: and that which aggravateth our unref<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmedness, is, that in the time of our Trouble we have said, <hi>arise, and save us,</hi>
+            </p>
+            <p n="2">2. There are evills prevailing amongst us, which if they be not re<g ref="char:EOLhyphen"/>formed, the Lords Controversy will not be ended, such as notorious Self<g ref="char:EOLhyphen"/>seeking, reigning Pride, shamefull Drunkenness, with the occasions lead<g ref="char:EOLhyphen"/>ing thereunto; w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full Apostacy, the blessed Design of our Father<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in coming into this wilderness not being minded and attended as ought to be: and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things are circumstanced, there is no hope that these and other e<g ref="char:EOLhyphen"/>vils should be reformed, untill God arise and shake terribly the Earth. So that <hi>nil nisi vota supersunt.</hi> On these accounts, it concerns us, to be crying unto the Lord day and night. If wee look abroad upon the face of the earth, in other parts of the world, the Children are come to the birth, &amp; there is not strength to bring forth. We behold <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the beginning of</hi> travailing <hi>sorrows,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven such things as evidence that some great Birth is at hand. And in our <hi>Horizon</hi> dark Clouds ga<g ref="char:EOLhyphen"/>ther apa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and the Heavens are covered over with blackness. Sure<g ref="char:EOLhyphen"/>ly in these respects▪ we may truly say as sometime that martyr did▪ <hi>Pray, Pray, Pray, never more need then now.</hi> And considering the blessed Encouragement God hath given us, whatever come on us, l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t us be found so doing.</p>
+            <closer>
+               <dateline>BOSTON, N-E. <date>August. 16, 1677.</date>
+               </dateline>
+               <signed>Increase Mather.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:93601:3"/>
+            <head>
+               <hi>An HISTORICAL DISCOƲRSE</hi> Concerning the Prevalency of PRAYER</head>
+            <p>IT was a great word (and if rightly understood, a true▪ word) which <hi>Luther</hi> spake, when he said, <hi>Est quaedam precum Omnipotentia,</hi> there is a kind of Omnipotency in Prayer; And the reason is obvious, <hi>viz.</hi> In that the Al<g ref="char:EOLhyphen"/>mighty doth suffer himself to be prevailed upon and o<g ref="char:EOLhyphen"/>vercome by prayer. Had not Jacob in this respect power with God? yea when he made his supplication, he had power, and prevailed over the Angel, even that Angel who is the Lord of H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sts, the Lord is his memorial. Where do we f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in all the Book of God a more wonderfull expression, then that of the Lord to praying Moses, <hi>Now let me alone?</hi> That ever the eternal<note place="margin">
+                  <hi>See Mr</hi> Ha<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <hi>Psal 82 p.</hi> 18<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 184.</note> God should become thus a petitioner to a poor mortal man▪ <hi>Ferienal licen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iam petit a Mose qui fecit Mosen.</hi> Prayer then i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like the sword of Saul, or the bow of Jonathan, which never re<g ref="char:EOLhyphen"/>turned empty from the battle. Prayer is stronger then iron gates At the prayers of the Church the Iron gates fly open, and the A<g ref="char:EOLhyphen"/>postles fetters fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> off. Sometimes the prayers of one man that hath an eminent interest in God▪ are a means to preserve a whole town, yea a whole land from destruction; wel might th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> An<g ref="char:EOLhyphen"/>tient<note place="margin">Chrysostom▪</note> say, <hi>Homine probo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rante nihil <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otentius.</hi> How far did Abra<g ref="char:EOLhyphen"/>hams prayers prevail for Sodom? Did not Elijah's prayers open and shut the windows of Heaven? Did they not bring down show<g ref="char:EOLhyphen"/>ers when the gasping earth was ready to dy for thirst? When <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:93601:4"/> fiery drought had like to have devoured the land of Israel, and the Prophet Amos prayed and cried to the Lord, saying, <hi>O Lord God, Cease I beseech thee, by whom shall Jacob arise? for he is small; the Lord repented for this, and said this shall not be▪</hi>
+            </p>
+            <p>Wars, when justly undertaken, have been successfull through the prevalency of prayer. Moses in the mount praying, is too strong for all the Armies in the valley fighting. When the Phili<g ref="char:EOLhyphen"/>stines went up against the Children of Israel, <hi>Samuel</hi> ceased not to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry to the Lord for Israel, and the Lord thundred with a great thunder that day upon the Philistines, and discomfited them, that they were smitten before Israel. <hi>Jehoshaphat,</hi> when surrounded by a multitude of heathen enemyes, by prayer overcame them, When Z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rah the Ethiopian, came against the Lords people with an host of a thousand thousand men, <hi>Asa</hi> by prayer and faith over came them all. <hi>Hezekiah</hi> and <hi>Isaia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> by their prayers brought an Angel down from heaven, who slew an hundred and fourescore and five thousand Assyrians, in the host of Sennacherib, in one night.</p>
+            <p>And besides these, and many other Scriptural examples, in ecclesiastical story Instances to this purpose are freqeuntly ob<g ref="char:EOLhyphen"/>served. The history of the thundring legion is famously known.<note place="margin">C<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>in Historiarum to<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> E<g ref="char:EOLhyphen"/>pitome. p 304.</hi>
+               </note> Thus it was.</p>
+            <p>The Emperour <hi>Marcus Aureliu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> going to war against the <hi>Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ads, Vandals, Sarmats,</hi> and <hi>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmans,</hi> who were nine hun<g ref="char:EOLhyphen"/>dred seventy and five thousand fighting men; The Imperialists were so cooped up by their numerous enemies, in strait, dry, and hot places, that the souldiers having been destitute of water for five dayes together, they were all like to have perished for thirst. In this extremity, a Legion of Christian souldiers being in the Army, withdrew themselves apart from the rest, and falling prostrate on the earth, by ardent prayers prevailed with God, that he immediately sent a most plentifull rain, whereby the Ar<g ref="char:EOLhyphen"/>my that otherwise had perished, was refreshed, and dreadfull lightenings flashed in the faces of their enemyes, so as that they were discomfited and put to flight. The effect of which was, that the persecution which before that the Emperour designed against the Christians, was diverted; and that <hi>praying Legion</hi> did after<g ref="char:EOLhyphen"/>wards bear the name of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>lightening Legion.</hi>
+            </p>
+            <p>
+               <hi>Constan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine</hi> the Great, being to jo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n battle with the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eathen<note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Constant<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> Tyrant <hi>Licinius,</hi> singled out a number of godly Ministers of
+<pb facs="tcp:93601:4"/> Christ, and with them betook himself to earnest prayer and sup<g ref="char:EOLhyphen"/>plication, after which God gave him a notable and glorious vi<g ref="char:EOLhyphen"/>ctory over his enemies. But <hi>Licinius</hi> himselfe escaped at that time, and raised another Army, which was pursued by <hi>Constan<g ref="char:EOLhyphen"/>tine,</hi> who before he would engage with the enemy, caused a tent to be erected, wherein he did spend some time in fasting and prayer, being attended with a company of holy praying men round about him, after which marching against his enemies, he sought them, and obtained a more glorious victory then the for<g ref="char:EOLhyphen"/>mer, and the Grand Rebel <hi>Licinius,</hi> was then taken Prisoner.</p>
+            <p>
+               <hi>Theodosius</hi> being in no small danger by reason of the potent<note place="margin">
+                  <hi>Lege</hi> Theod<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>vitam.</hi>
+               </note> Army of Adversaryes he had to do with, in his distress cryed unto heaven for help, and behold! the Lord sent such a terrible Tempest, as the like was not known, whereby the Darts of the enemy were driven back upon themselves, to their own confusion,<note place="margin">August <hi>De Ci<g ref="char:EOLhyphen"/>vitat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Dei▪ Lib. 5 C. 26.</hi>
+               </note> which caused <hi>Claudian</hi> the Poet (though no great friend to the Christian name) to say concerning <hi>Theodosius,</hi>
+               <q>
+                  <l>O nimium Dilecte Deo cui militat Aether,</l>
+                  <l>Et conjurati veniunt ad Classica Venti.</l>
+               </q>
+            </p>
+            <p>It is storied concerning the City of <hi>Nisibis</hi> that being strait<g ref="char:EOLhyphen"/>ly besieged by <hi>Sapor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> King of Persia, the distressed Citizens de<g ref="char:EOLhyphen"/>sired<note place="margin">S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Ec<g ref="char:EOLhyphen"/>cl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>siastical Hist</hi>
+               </note> a devout and holy man amongst them (whose name was <hi>James</hi>) to be earnest with the Lord in their behalf. He was so; and the effect was, God sent an Army of Gnats and Flyes amongst the <hi>Persians</hi> which so vexed and tormented them, as t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at they were forced to raise their Siege an depart.<note place="margin">Morland <hi>Hist.</hi> Waldenses.</note>
+            </p>
+            <p>Amongst the <hi>Waldenses</hi> sometimes an inconsiderable number have prevailed over multitudes of their popish Adversaryes. At one time five hundred of t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ose poor praying Saints over<g ref="char:EOLhyphen"/>threw two thousand and five hundred of their enemies, who scof<g ref="char:EOLhyphen"/>fed at them because they would fall upon their knees and pray before they would fight</p>
+            <p>In the land of our Fathers Sepulchres, when <hi>Oswald</hi> (who suc<g ref="char:EOLhyphen"/>ceeded his father <hi>Ethelfride</hi> in the Northern Kingdome) was assaulted by <hi>Cedwalla</hi> and <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nda,</hi> two Heathen Kings, that rais<g ref="char:EOLhyphen"/>ed a great Army, designing the ruine of <hi>Oswal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and his people, he humbly and earnestly addressed himself to the Lord of Hosts, the great giver of victory, entreating him to shew his power in sa<g ref="char:EOLhyphen"/>ving and protecting his own people from the rage of Heathen<note place="margin">
+                  <hi>S<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Cla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks Ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp <hi>Vol. 1. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0</note> Adversaryes: after which, j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yning battle with his enemyes,
+<pb n="4" facs="tcp:93601:5"/> albeit their Army was far greater then his, he obtained a won<g ref="char:EOLhyphen"/>derfull<note place="margin">Idem codem Lib.</note> victory, wherein <hi>Cedwalla</hi> himself was slain.</p>
+            <p>When <hi>England</hi> was invaded by the <hi>Danes</hi> under the conduct of their King <hi>Osvick,</hi> who encamped at <hi>Ashdon,</hi> King <hi>Ethelred</hi> be<g ref="char:EOLhyphen"/>took himself to Prayer; and marching against the Danish Army, put them to flight, and slew the greatest part of them.</p>
+            <p>
+               <hi>Gustavus Adolphus</hi> the King of Sweden, no sooner landed in his enemies Territoryes, but he addressed himself to heaven for Victory, and encouraged his Counsellors and Commanders by saying, <hi>The greater the Army of Prayers is, the greater and more assured shall be our Victory.</hi> Yea it was his manner when the Ar<g ref="char:EOLhyphen"/>myes were set in Battle array, to lift up his eyes to heaven, &amp; say, <hi>Lord prosper the Battle of this Day, according as thou seest my heart doth aim at thy Glory, and the good of thy Church.</hi> And how suc<g ref="char:EOLhyphen"/>cesfull did God make that excellent Prince to be?</p>
+            <p>But what need we go far to find examples confirming the truth of this assertion, that <hi>Prayer is of wonderfull Prevalency▪</hi> since our own eyes have seen it? <hi>New-England</hi> may now say, if the Lord (even the Prayer-hearing God) had not be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n on our side when men rose up against us, they had swallowed us up; then the proud waters had gone over our Soul. And thus hath it been more then once or twice, especially since the late insurrection and Rebellion of the Heathen Nations round about us. We cannot but acknowledge, and Posterity must know, that we were in ap<g ref="char:EOLhyphen"/>pearance a gone and ruined People, and had been so ere this day, if the Lord had not been a God that heareth Prayer.</p>
+            <p>And there are especially <hi>two Considerations that doe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vince, that New-Englands Deliverance from the rage of the Heathen is an eminent answer of Prayer,</hi> 1. In that God hath gracious<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> answered us as to the very Petitions that have bin mostly insisted on, as will appear to admiration by instancing in some Particulars.</p>
+            <p n="1">1. Then, <hi>How often have we prayed that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord would a<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> infatuate &amp; frustrate the Counsils of the Heathen that sought <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ruine,</hi> A sometimes David when pursued by Absolom pra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> saying, <hi>O Lord di<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide their tongues.</hi> Psal. 55. 9 Again David said. <hi>O Lord I pray t<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e turn the Counsell of Achitophel into <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ishness.</hi> 2. Sam. 15. 31. Those requests of David were heard, and therefore Absaloms Counsellours were divided, one giving this, and another that advice; and the subtle Counsell of Achi<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l (which had it been heark<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed unto, David and those with
+<pb n="5" facs="tcp:93601:5"/> him had perished) must not be followed. In like manner hath the Lord done for us; we have heard how that after the Fort fight, Decemb. 19. 1675. some of the Indian Counsellors advised that they might pursue our Army when upon their retreat; which if they had so done, how fatal would the Consequence have proved? But therefore God divided their Counsells, that others were of another mind.</p>
+            <p>Moreover, we have received informations, concerning a great Consultation amongst the Indians, soon after their mischief done at <hi>Sudbury</hi> in April. 1676. Had they then continued to molest the English, our case had been sad; but they supposed they had time e<g ref="char:EOLhyphen"/>nough before them, and therefore resolved to be quiet a moneth or two, in order to attendance upon their own planting and fishing.</p>
+            <p>We hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> also heard that the old crafty Serpents amongst the In<g ref="char:EOLhyphen"/>dians advised that they mig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t shun all encounters with the English Forces, and rather disperse themselves into small Partyes, and so fall upon the English Towns, burning their houses, destroying their cattle &amp;c. but that the young men thought it best to cut off our souldiers, and then they supposed they might do what they pleased with our towns. Thus were their tongues divided, and Counsils turned into foolishness.</p>
+            <p n="2">2. <hi>How o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ten have we prayed that God would do for us as in the day of Mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian, by causing the heathen to destroy one another, and that the Egyp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians might be set against the Egyptians.</hi> The Lord hath answer<g ref="char:EOLhyphen"/>ed that Request also. For the Indians have been wasting and killing one another, yea not only such Indians as do pretend friendship to the English, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. g. the <hi>Natick &amp; Punka<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g</hi> Indians, and the <hi>Mo<g ref="char:EOLhyphen"/>hawks</hi> and the <hi>Moheags</hi> under <hi>Ʋncas;</hi> albeit it is too evident that he was secretly conspiring with <hi>Philip</hi> in his designed mischief, a lit<g ref="char:EOLhyphen"/>tle before the War brake forth, but God turned him about, and made him a friend to the English, and an enemy to <hi>Philio</hi>) but also some of those that were once in hostility against us, did at last help to destroy their own nation, friends and kindred, that so they might do service for us. So have they that sought to destroy us, gone into the lower parts of the earth, they are fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>len by the sword.</p>
+            <p n="3">3. <hi>How often have we prayed that the Lord would take those his Enemies into his own avenging hand,</hi> pleading that though we kn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w not how to come at them, they had such advantages in respect of woods and swamps and dark corners of the earth, to lurk in; yet the hand of our God could reach them, and that therefore he
+<pb n="6" facs="tcp:93601:6"/> would scatter them by his power and bring them down, and let them wander up and down for meat, and send the destroying Angel a<g ref="char:EOLhyphen"/>mongst them. This Prayer hath been heard; For it is known that the Indians were distressed with famine. multitudes of them perish<g ref="char:EOLhyphen"/>ing for want of bread; &amp; the Lord sent sicknesses amongst them, that Travellers have seen many dead Indians up and down in the woods that were by famine or sickness brought unto that untimely end. Yea the Indians themselves have testified, that more amongst them have been cut off by the sword of the Lord in those respects, then by the sword of the English.</p>
+            <p n="4">4. <hi>How often have we prayed that the Lord would remember the Cruelty, Treachery, and above all the Blasphemy of these Heathen?</hi> This Prayer hath been heard in heaven. As for their cruelty, God hath remembred that, many of them falling into the hands of the <hi>Mohawks</hi> or other Indians, who fought in our quarrel, used their e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emies after their own-kind: And it hath been observed, that venge<g ref="char:EOLhyphen"/>ance from the Lord did pursue them presently upon the perpet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>tion of some horrid acts of barbarous cruelty toward such as fell into their murderous hands. And as for their Teachery, God hath retalliated that upon them; as for the perfidious <hi>Narragansets, Peter</hi> Indian was false and perfidious to them, upon a disgust recei<g ref="char:EOLhyphen"/>ved amongst them, and directed our Army where to find them. Treacherous <hi>Philip,</hi> one of his own men ran away from him, &amp; told Capt. <hi>Church</hi> where that Grand enemy had hid himself, the issue of which was, another Indian shot a bullet into the treacherous heart of that Covenant-breaking Infidel. Yea many of those bloudy and deceitfull Indians who were taken by Capt. <hi>Church,</hi> would frequent<g ref="char:EOLhyphen"/>ly destroy and betray their bloudy and falshearted Comrades. <hi>Ma<g ref="char:EOLhyphen"/>toonas</hi> who was the first Indian that treacherously shed innocent En<g ref="char:EOLhyphen"/>glish blood in <hi>Massachusets</hi> Colony, he some years before preten<g ref="char:EOLhyphen"/>ded to something of Religion, being a professor in general (though never haptised, nor of the inchurched Indians) that so he might the more covertly manage the hellish design of revenge that was har<g ref="char:EOLhyphen"/>boured in his divelish heart; but at last Sagamore <hi>Joh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> with some of his Indians unexpectedly surprized him, and delivered him to Ju<g ref="char:EOLhyphen"/>stice. That abo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able Indian <hi>Peter Jethro</hi> betrayed his own fa<g ref="char:EOLhyphen"/>ther, and other Indians of his special acquaintacce, unto death. Ma<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omuel</hi> Indians, who were wont to lay snares for others, were at last themselves taken by a Stratagem, and brought to desci<g ref="char:EOLhyphen"/>ved execution.
+<pb facs="tcp:93601:6"/> And as for their Blasphemy, God hath remembred it, the most no<g ref="char:EOLhyphen"/>torious Blasphemers amongst them have been made examples of di<g ref="char:EOLhyphen"/>vine revenging Justice, <hi>Quanonchet, Pomham, Monoco,</hi> all of them cursed Blasphemers; the vengeance of heaven hath not suffered them to live. It is also reported that an English-man, belonging to one of the western Plantations, being mortally wounded by an Indian, the Indian upbraided him with his prayers, saying to him, <hi>You were went to pray to Jesus Christ, now pray to him, He cannot help you,</hi> and withall added a most hideous Blasphemy (not fit to be named) a<g ref="char:EOLhyphen"/>gainst our blessed Lord Jesus Christ, immediately upon which a bul<g ref="char:EOLhyphen"/>let took him in the head, and dashed out his brains, sending his cur<g ref="char:EOLhyphen"/>sed soul in a moment amongst the Devils, and Blasphemers in Hell for ever.</p>
+            <p n="5">5. <hi>How often have we prayed that the Lord would take away spi<g ref="char:EOLhyphen"/>rit and courage from those that have been in hostility against us, and cause those haters of the Lord to submit themselves.</hi> In this thing also the Lord <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th had respect to our requests. For hundreds of Indians the last summer came &amp; surrendered themselves to the English, e. g. in <hi>Plymout<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Colony the <hi>Squaw-Sachim</hi> of <hi>Saconet,</hi> with above an hundred Indians submitted themselves to mercy. June, 30, 1676. Not long after that two hundred Indians more surrendred them<g ref="char:EOLhyphen"/>selves. And in the eastern parts of this Colony, (July. 6. there were six Sachims addressed themselves to the English in order to the obtaining peace, bringing in with them three hundred men besides women and Children. Likewise in the same moneth <hi>Sagamore John</hi> submitted himself with about an hundred &amp; eighty Indians; and hundreds of them came &amp; submitted themselves to the English in <hi>Conn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cticut</hi> Colony. These things came not to pass without the finger of God. so manifest as that the enemy himself could not but take notice of it. For a stout Indian Captain who was afterward executed at <hi>Boston,</hi> professed to some of our Souldiers, that they could never have subdued the Indians, <hi>But</hi> (said he striking up<g ref="char:EOLhyphen"/>on his breast) <hi>Englishmans God maketh us afraid here.</hi>
+            </p>
+            <p n="6">6. <hi>How often have we prayed that God would in special look after those places, which were in most eminent danger, as being above others exposed to the fury of the enemy?</hi> And we have had the petitions we desired of him in that respect. What a black appearance of death and ruine was before the poor people at <hi>Quaboag,</hi> when they were all cooped up in one unfortified house, and surrounded by a batha<g ref="char:EOLhyphen"/>rous multitude of cruel Indians, who thirsted after their blood? But
+<pb facs="tcp:93601:7"/> God by a strange providence, sent Major <hi>Willard,</hi> who with a <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> party of soul diers, came a few hours or minutes before it was too late, by which means the remaining Inhabitants of that place had their lives given them for a prey. After that, the western plantati<g ref="char:EOLhyphen"/>ons, <hi>North Hampton, Hadly, Hatfi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld</hi> &amp;c. were in the eminentest danger, by reason of the enemy taking up their Rendezvouze in those parts; but God preserved and delivered them, in answer un<g ref="char:EOLhyphen"/>to prayer. That memorable providence ought not to be forgotten, how that in the beginning of March, 1676. Our Army missed their way (designing to surprize the Indians about <hi>Wachus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> Hills) and were providentially led to North Hampton; Also Major <hi>Treat</hi> with souldiers under his Command, did then take up his Quarters in that town, coming thither a day sooner then was intended; The next day a great body of Indians brake in upon the town, and in probability had laid it wast, had there not been such a supply of souldiers as hath been mentioned, which the good providence of God brought thither, in answer to the prayers of his people. Moreover, the whole Colony of <hi>Plymouth</hi> was in most apparent danger of boing overrun and overwhelmed with the enemy; especially in the spring of the year 1676. when (as we have been informed) the Indians were designing, with fifteen hundred men to fall upon all the scat<g ref="char:EOLhyphen"/>tered towns throughout that Jurisdiction. But God gave men, yea a great <hi>Sachim,</hi> for the life of his dear people in that Colony. We have heard that <hi>Qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nonchets</hi> surprizal and death, struck an amaze<g ref="char:EOLhyphen"/>ment into the heathen, and diverted their purposed mischief. May 8. 1676. when <hi>Bridgwater</hi> was assaulted. and in danger of being laid wast, God sent thunder and rain from heaven, which caused the Indians to turn back. And when they attempted to make <hi>Taun<g ref="char:EOLhyphen"/>ton</hi> a desolation, July 11. how wonderfully did the Lord save that town? so ordering by his providence, as that a captive <hi>Negro</hi> es<g ref="char:EOLhyphen"/>caping from the Indians, informed of their purpose to fall upon that place, whereupon the Inhabitants stood upon their guard, and soul<g ref="char:EOLhyphen"/>diers were timously sent in to them for their relief and defence.</p>
+            <p n="7">7. <hi>How often have we prayed for our poor Captives, that God would preserve them and return them?</hi> When some of ours not many years since, were in Captivity under <hi>Mahomet,</hi> what prayer was made for them continually? Especially it was so in respect of Mr. <hi>Foster,</hi> and his son, the Church in <hi>Charlstown</hi> setting a day apart to seek unto the Lord by fasting and prayer, that the persons men<g ref="char:EOLhyphen"/>tioned might be set at liberty, and although at that time there was
+<pb n="9" facs="tcp:93601:7"/> no likelyhood that ever it should be, the infidel King, under whose power they were, not being willing to accept of money for their re<g ref="char:EOLhyphen"/>demption, yet God brought it about wonderfully, and rather then his peoples prayers should not be answered, that Tyrant must dy by a strange and unexpected providence. But I speak now concerning those that have been Captives amongst the heathen in this land. And God hath heard us for them. Whereas upon the 9th of May, 1676. the Magistrates, and Ministers of this Colony, and the De<g ref="char:EOLhyphen"/>putyes of the General Court, sought the Lord together by fasting and prayer, and did in special manner beg that Captives might <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e returned, as a token for good, and pledge of further answers of prayer; within a few weeks after this, neer upon twenty of our Captives were set at liberty. For some, prayer hath been more a<g ref="char:EOLhyphen"/>bundantly poured forth; so for Mr. <hi>Rowlandson</hi> his wise and two children, and we have seen the Lord returning them all again. And whereas in October 1676. Amongst others, the son of that man of God, and man of prayer, Reverend Mr. <hi>Cobbet</hi> (the faithfull Pastor of the Church in Ipswich) was surpriced in a vessel by the Northern Indians, and led away into Captivity; doubtless God did it, that so glory might be to his holy name, and that the world might fee how prayer can prevail with him. Mr. <hi>Cobbet</hi> no soon<g ref="char:EOLhyphen"/>er heard what was befallen his son, but he called together about thirty of his Christian neighbours (that being as many as could on the sudden convene) and they set some time apart to pray for him that was now a Captive, after this his Fathers heart was sweetly quieted, believing that God had heard them: Some others also that attended that Service, were as confidently perswaded that God would return (and that in comfortable plight) Mr <hi>Cobbets</hi> son to him again, as if he were already come; Prayer also was made in pub<g ref="char:EOLhyphen"/>lick Congregations in particular for that young man; and in De<g ref="char:EOLhyphen"/>cember following, those prayers were fully answered, the Lord bringing it about in strange wayes, the particulars and circumstan<g ref="char:EOLhyphen"/>ces whereof are too large here to be insisted on.</p>
+            <p>Let me further take notice here, that whereas no longer then three weeks since, (viz. July 25. 1677.) the Church in <hi>Salem</hi> set a day apart to seek the Lord in special on behalf of those belong<g ref="char:EOLhyphen"/>ing to that Town lately fallen into the hands of the Indians; whilst they were praying, God brought home one of the vessels that the Indians had surprised, &amp; two persons who were Masters of Vessels) that had been particularly prayed for in the morning, returned
+<pb n="10" facs="tcp:93601:8"/> solemn thanks to God in the after part of the day, in that he had in answer of the Prayers of his people, brought them out of their Cap<g ref="char:EOLhyphen"/>tivity.</p>
+            <p n="8">8. <hi>How often have we prayed that God would cutt off the Ring. leaders, and principal bloudy promoters of the late troubles?</hi> That the Lord would doe unto them as unto Sisera, as to Jabin at the brook of Kison (which perished at Endor, they became as dung for the earth) and make their Nobles like Oreb and like Zeeb, yea all their Princes like Zeba and Zalmunna.</p>
+            <p>Now in these Cryes to heaven our God hath heard us even to admiration. <hi>Philip</hi> the Grand enemy and beginner of the War, is gone to his own place. It was observed that a little before the destruction of that bloudy Foe, the Lord stirred up the hearts of some of his Servants, to be instant in prayer against that enemy in particular, yea and caused them firmly to believe that it should be so. Nor could they cease crying to the Lord against him, untill they had prayed the bullet into <hi>Philips</hi> heart. And concerning what prayer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have been in closets about that thing, we shall hear more at the day of judgment when the Lord Jesus will reveal it and reward it openly. Are not all the Chieftains amongst the Heathen who have been in Hostility against us cutt off for ever? and their memorial is perished with them. <hi>O thou most High, Thou hast rebuked the Heathen, thou hast put out their name for ever and ever!</hi>
+            </p>
+            <p>We have heard of two and twenty Indian Captains, slain all of them, and brought down to Hell in one day, viz. Decemb. 19. 1675. And some of the Indians have confessed that at the Fall<g ref="char:EOLhyphen"/>fight, May 18. 1676. they lost no less then three and thirty of their Counsellours, which put them into an absolute Consusion. that they were like men amazed ever after.</p>
+            <p>Where are the six <hi>Narraganset</hi> Sachims, with all their Captains and Counsellors? Where are the <hi>Nipmuck</hi> Sachims, with all their Captains and Counsellours? Where is <hi>Philip</hi> and <hi>Squaw-Sachim</hi> of <hi>Pocasset</hi> with all their Captains and Counsellours? God doe so to all the implacable enemies of Christ and of his People in New-England!</p>
+            <p>2. <hi>If we consider the TIME when God hath appeared for us, it It is manifest that our Salvation is an Answer of Prayer.</hi> It was a fatal happy blow which the Indians received at the Fort-Fight in the <hi>Narraganset Country;</hi> &amp; a little before that, all these Churches
+<pb n="11" facs="tcp:93601:8"/> were solemnly by Fasting and prayer seeking to the Lord, that the Heathen might be rebuked at that time. When <hi>Quanonchet</hi> was taken and slain, it was an amazing stroke to the enemy. And but a few dayes before that, many Churches in <hi>England</hi> kept a day of Fasting and prayer for poor <hi>New-England.</hi> In the latter end of June. 1676. (and ever after that) successes against the enemy were wonderfull; especially in Plymouth Colony. Now on the 22. of June, all the Churches in that Colony set apart a day of solemn Hu<g ref="char:EOLhyphen"/>miliation, and renewed their Covenant. And on the 29. of that moneth, was a day of Thanks-giving throughout this Colony, the prayers &amp; praises of which day were signally owned by the Lord, who did then set ambushments against the enemy &amp; they were smitten. Also in this very Moneth, the Churches in <hi>Dublin</hi> in Ire<g ref="char:EOLhyphen"/>land were solemnly seeking to the Lord on our behalf. Why should not these things be written &amp; recorded for the Generation to come? why should they not be made known to our Children, that they might set their hope in God, and not forget the works of God, but keep his Commandments.</p>
+            <p>Some one perhaps will say, did not God in the time of your late War seem to be angry with your Prayers? Had you not the saddest tidings on your solemn dayes of Humiliation?</p>
+            <p>
+               <hi>Answ.</hi> This is true, and the thoughts of it should for ever hum<g ref="char:EOLhyphen"/>ble us; yet we know, sometimes the Lord seems to be displeased with the Prayers of his people only to try their Faith (as with the wo<g ref="char:EOLhyphen"/>man of Canaan) when as indeed they are his delight. Moreover (alas!) it cannot be denied or doubted of, but that the Lord saw formality and hypocrisy in the prayers of many amongst us, which he was offended at; how beit there are some living Christians, that walk closely with God; a sew Names that have not defiled their gar<g ref="char:EOLhyphen"/>ments with the sins, and generally prevailing temptations of these times; unto them and to their Prayers hath the Lord had respect. It must also be confessed, that the prayers of the Churches in <hi>Europe</hi> have had no small influence into our mercyes. I can assure the Reader, that the Churches in <hi>Londen,</hi> in <hi>Suffolk▪</hi> in <hi>Dorset,</hi> in <hi>Devon</hi> in <hi>Somerset,</hi> in <hi>Lancashire,</hi> have by Fasting and Prayer, sought the Lord for New-England, in the time of our late troubles. And I doubt not but that the Lords praying people in other Countyes, where I have no acquaintance or correspondence, have done the like. We are infinitely indebted to that God, who having a pur<g ref="char:EOLhyphen"/>pose to glorisy himself by hearing prayers, put into their hearts to be earnest with the Lord on our behalf.</p>
+            <pb n="12" facs="tcp:93601:9"/>
+            <p>Who knoweth, but that we may be again involved in trouble by the remainders of the heathen, or otherwise. Let us then be encou<g ref="char:EOLhyphen"/>raged to take in hand our old tried weapons, even <hi>preces et lacrym<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the Auntient <hi>Armes of the Church.</hi> If enemyes arise, let us pray them down again. And that is the special improvement which should be made of what hath been discoursed; since we have seen what prayer can do, <hi>The consideration of these things should stir up an holy resolution in every one, to be sincere, frequent, and constant, in this so great and powerfull a duty.</hi> It is reported of <hi>Joachim</hi> (the father of the Virgin Mary, that <hi>prayer was his meat and drink.</hi> And we know what was Davids profession, Psal. 116. 1, 2. <hi>I love the Lord, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cause he hath heard my voice, and my supplication, because he hath enclined his ear to me, therefore I will call upon him as long as I shall live.</hi>
+            </p>
+            <p>Wherefore to the particulars already mentioned, I shall (for how should a man when writing upon such a subject, easily break off add a few more. It would indeed fill a volume, should all the Instances this way be produced, which stand upon record in approved Au<g ref="char:EOLhyphen"/>thors; nor have I present leisure to revolve many books that touch upon this subject; only such particulars as do presently occur to mind I shall relate, hoping it will not be unprofitable to the reader▪ who possibly hath not had the knowledge of them, or not of all of them. To proceed then,</p>
+            <p>There have been, whom prayer hath brought back from the gates of the grave, whenas to all outward appearance, they have been other<g ref="char:EOLhyphen"/>wise past recovery; not to insist upon Scriptural examples here neither, It is a memorable passage which a great Historian hath noted con<g ref="char:EOLhyphen"/>cerning that Learned and Religious, Sr. <hi>John Che<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</hi> who was Tu<g ref="char:EOLhyphen"/>tor to our English Josiah, King Edward 6th.</p>
+            <p>Sr. John being sick nigh unto death, the King did carefully en<g ref="char:EOLhyphen"/>quire after his welfare every day; at last the Physitians told him,<note place="margin">Fullers <hi>History of the Church p.</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> that there was no hopes of life; Nay (said the King) he will not dye at this time, for I have this morning begged his life of God in my prayers, and obteined it; which accordingly came to passe; and soon after Sr. John wonderfully recovered beyond all expecta<g ref="char:EOLhyphen"/>tion.<note place="margin">Melchior Adam <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>la<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is</hi>
+               </note>
+            </p>
+            <p>
+               <hi>Melancthon</hi> was taken desperately sick at <hi>Vinaria,</hi> as he was in a jour<g ref="char:EOLunhyphen"/>ney towards <hi>Hagenaw,</hi> in order to a Conference with some of the reformed Divines in Germany about matters of religion; <hi>Luther</hi> hea<g ref="char:EOLhyphen"/>ring of it, hastned to visit him, and with tears saying, Alas! how
+<pb n="13" facs="tcp:93601:9"/> precious and profitable an Instrument of the Church, is miserably weakned, and ready to perish! and falling upon his knees, he did most earnestly wrestle with the Lord for his recovery, and prevai<g ref="char:EOLhyphen"/>led, so as that <hi>Melancthon</hi> would afterwards confess, that if it had not been for <hi>Luthers</hi> prayers, he had died by that sickness.<note place="margin">
+                  <hi>Idem in vita</hi> Myconii</note>
+            </p>
+            <p>At another time, <hi>Myconius</hi> being fallen into a deep consumption, <hi>Luther</hi> was earnest in prayer to God for his recovery; and he wrote a letter to him, wherein he thus expresseth himself, <q rend="margQuotes">I pray Christ our Lord, our salvation, our health, that I may not live to see thee, and some others of our Colleagues to dye, and go to heaven, and to leave me here amongst the Divels alone. Farewel and God forbid that I should hear of thy death whilst I live</q>
+               <hi>sed te super<g ref="char:EOLhyphen"/>stitem faciat mihi Deus; hoc peto et volo, et fiat voluntas mea, Amen! quia haec voluntas gloriam nominis Dei, certe non meam voluptatem. nec copiam quaerit.</hi> A while after <hi>Myconius</hi> recovered, and outli<g ref="char:EOLhyphen"/>ved <hi>Luther,</hi> ever acknowledging that he was beholding to God for putting it into the heart of <hi>Luther;</hi> so to pray for him, and instru<g ref="char:EOLhyphen"/>mentally to lengthen out his life seven years beyond his own, and friends expectation.</p>
+            <p>Yea more, Divels and powers of darkness have fallen before the power of prayer. A desperate young man in <hi>Germany,</hi> who in an<note place="margin">Idem in vita Luther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> hellish pang of temptation had sold himself to, and made an expli<g ref="char:EOLhyphen"/>cit covenant with the Divel; having revealed his miserable codition to <hi>Luther,</hi> he called the Church together, and the young man be<g ref="char:EOLhyphen"/>ing with them, they fasted and prayed, so that the Divel threw the writing, which he had received of the young man, in at the win<g ref="char:EOLhyphen"/>dow, and a forlorn soul was rescued out of the hands of that devou<g ref="char:EOLhyphen"/>ring Lion. How often have poor creatures under bodily possessions<note place="margin">R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fertur in <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ta Augustin.</note> been delivered from that thraldome by earnest prayer? <hi>Austin</hi> by his prayers cast out Divels. The History of those seven possessed in <hi>Lancashire,</hi> in whose dispossession Mr. <hi>Darrel</hi> and others were by fasting and prayer instrumental, is well known.</p>
+            <p>There was a man that lived not far from <hi>Nottingham,</hi> whose name<note place="margin">Read Mr. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wels life wr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ten by Mr Gower</note> was <hi>John Fox.</hi> This man was possessed by the Divel, who would violently throw him down, and take away the use of every member of his body, and was sometimes heard speaking when his lips moved not at all; yea (albeit the man could speak no other language be<g ref="char:EOLhyphen"/>sides his mother tongue) the evil spirit in him would frequently quote scriptures out of the Originals, Hebrew and Greek, and play the Critick, and back his allegations with sayings out of▪ the Fathers &amp;
+<pb n="14" facs="tcp:93601:10"/> Poets. Among others that came to pray with this poor miserable man, Mr. <hi>Rothwel</hi> (a minister that was famous in those parts in those dayes) was one. As he was coming, the Divel told them in the house with the possessed man, yonder is <hi>Rothwel</hi> a coming; and upon his entring into the house, raged and blasphemed, saying also wilt thou go to prayer, I'le make such a noise as shall distract thee, and dost thou think that God will hear distracted prayers? Mr. <hi>Rothwel</hi> replyed, God heareth the prayers of the upright, and hath promised to give his spirit to help infirmityes in prayer; there<g ref="char:EOLhyphen"/>fore in Confidence of his promise, &amp; powerful assistance of his spirit, and in the name of his son Iesus Christ, we will go to prayer. So he did. The Divel for above a quarter of an hour made an horrid noise, and roared at Mr. <hi>Rothwell</hi>'s face, but at last was forced to be silent, and departed out of the man, who before the Prayer was end<g ref="char:EOLhyphen"/>ed, did to the amazement and joy of all the Auditors present say Amen to the Petitions that were presented before the Lord on his behalf. After Mr. Rothwel lest him, he was striken dumb for three years together; at length by prayer also, God opened his mouth, and restored his speech to him; One using this Petition, Lord open his mouth, and his lips shall shew forth thy praise; he answered in the Congregation, <hi>Amen,</hi> and so continued to speak, and spake graciously to his dying day.</p>
+            <p>I remember I have met with another example not unlike unto this but now mentioned. In the town of <hi>Barwick</hi> upon <hi>Tweed,</hi> there was a man (Steward to the Lord of <hi>Granson</hi>) reputed Godly, who was very much afflicted in his mind. Mr. <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lsom</hi> (an eminent preach<g ref="char:EOLhyphen"/>er,<note place="margin">
+                  <hi>see Mr.</hi> Balsom <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. by</hi> Cla<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> by whose Ministry in that one town sixty p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rfo<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e (as was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udged) savingly wrought upon) did several <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>it him, and sought to apply words of comfort to him, bu<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ng of that nature taking place, he whispered the Steward in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar to this purpose, <hi>I doubt there is something within which you would do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> well to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iscove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> whereupon, immediately the mans tongue swelled out of his mouth that he was not able to speak, and to the astonishment of those in the room, a shrill voice was heard, as it were speaking out of his throat, saying, what dost thou talking to him of free grace and promises? he is mine. Mr. <hi>Balsom</hi> perceiving that it was the De<g ref="char:EOLhyphen"/>vil that spake, told him, he did not know that men were his as long as they were alive in this world. To whom the Devil re<g ref="char:EOLhyphen"/>plyed, If God would let me loose, I would find enough in the best of you all to make you mine, and as for this man he hath given him<g ref="char:EOLhyphen"/>self
+<pb n="15" facs="tcp:93601:10"/> to me. I will not (said Mr. <hi>Balsom</hi>) believe the father of lyes; but I will goe home and pray for this poor man, and get all the force in the town I can to joyn with me, and I doe believe that thou Satan shalt loose thy hold before to morrow morning. Mr. <hi>Bal<g ref="char:EOLhyphen"/>som</hi> upon his return home that night, found diverse Christians in his house, who waited to speak with him, unto whom he decla<g ref="char:EOLhyphen"/>red that he could not but admiringly take notice of the providence of God in bringing them to his house, whom otherwise he had pur<g ref="char:EOLhyphen"/>posed to send for; and desired them to spend part of the night with him, in seeking to the Lord in the behalf of such a distressed posses<g ref="char:EOLhyphen"/>sed man: which they did, and the next morning Satan had lost his possession: and when Mr <hi>Balsom</hi> enquired of the poor man how it was with him, He answered; through the goodness of God, I have overcome, and am now as full of Comfort, as before I was full of Trouble.</p>
+            <p>I have also heard a worthy Divine in <hi>Dublin,</hi> speak of a man, that being under bodily possession by an evil spirit, a Company of praying Christians met together, to seek the Lord on his behalf; a<g ref="char:EOLhyphen"/>mongst<note place="margin">Dr. <hi>Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter.</hi>
+               </note> them there was a precious holy woman, who kneeled behind the door in the room where they were praying together, and there were strong actings of Faith in her soul; at last the Devil was forced to depart; only as he was going out of the possessed party, he cryed out, <hi>O the Woman, the Woman behind the door!</hi>
+            </p>
+            <p>Some very learned and judicious Writers conceive, that <hi>Epil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<g ref="char:EOLhyphen"/>tick</hi> and <hi>Lunatick</hi> persons are those <hi>Demoniacks</hi> whom we read so<note place="margin">
+                  <hi>Mr.</hi> Medes <hi>w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rks in F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lio. Bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k 1. Discour.</hi> 6. B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>za <hi>in Mat. 8. 16. &amp; 17. 15.</hi>
+               </note> much of in the New-Testament. There is a <hi>Deliration</hi> that pro<g ref="char:EOLhyphen"/>ceeds <hi>ex vi morbi,</hi> being from or with a Fever, and another kind of deliration which is <hi>sine Febre,</hi> when a man having no other disease is crazed or distracted. Not they that are subjected to the former, but to this latter have been accounted <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> possessed persons. The Jews of old had such an opinion concerning mad men. Joh. 10. 20. Consider also, Math. 17. 14, 15,—18. with Luk. 9. 39. Whatever of solidity may be in that notion, is not a place here to dispute▪ but this is certain, that distracted persons have been restored to the use of their understanding again by Fasting and Prayer. That Moses of his time, Mr. <hi>Dod</hi> (concerning whom Mr. <hi>Burroughs</hi> giveth this Testimony, that he was the meekest man upon the face of the earth) had a godly son, whom it pleased the Most High to leave unto sore<note place="margin">
+                  <hi>Mr</hi> Burroughs▪ <hi>on M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th 11 28. 2d p<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>58.</note> distraction in his mind, whereupon Mr. Dod called some of his god<g ref="char:EOLhyphen"/>ly praying Friends together, who set a day apart solemnly to seek
+<pb n="16" facs="tcp:93601:11"/> the Lord about that matter, and whilst they were yet speaking in prayer, God heard them, so as that the distracted person was not only restored to his right mind again, but did himself conclude that day of prayer with solemn Thanksgiving unto God. This Infor<g ref="char:EOLhyphen"/>mation I received from a Reverend Minister, who was present in Mr Dods house, when that day of fasting and prayer was there obser<g ref="char:EOLhyphen"/>ved, upon the occasion mentioned.</p>
+            <p>It is reported concerning that excellent man, and famous Minister<note place="margin">see M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>viston of f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lfilli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Script<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res p 431</note> in <hi>Edenbourg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Mr. <hi>Bruce</hi> (concerning whom the Learned <hi>Didocla<g ref="char:EOLhyphen"/>vius</hi> hath given a most honourable testimony) that diverse persons that were distracted, and some who were Epileptical, past hopes of recovery, were nevertheless restored to perfect health in answer to Mr. <hi>Bruces</hi> prayers.</p>
+            <p>But I have not met with any instance to this purpose more affecting then that which is (by an Author worthy of credit) published con<g ref="char:EOLhyphen"/>cerning Mr. <hi>Patrick Simpson</hi> a learned and very holy Minister, som<g ref="char:EOLhyphen"/>times<note place="margin">Fulfilling of the Scriptur<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s p 437</note> of <hi>Sterling</hi> in Scotland. The story in brief is this.</p>
+            <p>Mr <hi>Simpsons</hi> wife (a gracious woman) falling sick, was sorely as<g ref="char:EOLhyphen"/>saulted by Satan, who told her that she should be given over into his hand; The temptation and affrightment prevailed so far as to re<g ref="char:EOLhyphen"/>solve in a visible distraction, that the good woman, most unlike her former way whilst she was her self, would break forth sometimes with dreadfull and horrid expressions; This was (and could not be otherwise) a most bitter affliction to her precious husband, who told those about her, that he was assured, that Satans malice should at last receive a shameful foyle; wherefore he retired himself into his garden, and shutting the door, betook himself to fasting and prayer. One <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>len Garner</hi> (a godly woman) being sollicitous for Mr. <hi>Simpson,</hi> as fearing that his labours, grief, fasting might be too hard for him, used some means to get over into the garden, where Mr. <hi>Simpson</hi> was alone wrestling with God; being come neer the place where he was, she was terrified with an extraordinary noise which caused her to fall upon the ground▪ It was like the noise of a great rushing of multitudes together, and therewithal such a melo<g ref="char:EOLhyphen"/>dious sound as did make her know it was something more then hu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ane; so that she fel to prayer, entreating the Lord to pardon her r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shness in so coming thither, considering it was respect to his ser<g ref="char:EOLhyphen"/>vant, who had been an Instrument of good to her soul, that did in<g ref="char:EOLhyphen"/>duce her. After going forward, she found Mr. <hi>Simpson</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lving up<g ref="char:EOLhyphen"/>on the ground; not would he reveal what he had met with, until
+<pb n="17" facs="tcp:93601:11"/> promise was made not to speak of it whilst he was alive in this world. Upon this he said, <hi>O what am I being dust and ashes, that the holy Ministring spirits should be sent by the Lord to deliver a message to me,</hi> and shewed that Angels from heaven had by an audible voice given him answer concerning that which he had been praying a<g ref="char:EOLhyphen"/>bout. [This was a thing extraordinary, and in no wise to be expect<g ref="char:EOLhyphen"/>ed by Christians ordinarily] and returning into his house, he bid those that were in the room with his wife, be of good comfort; for he was assured that within ten hours she should be delivered from that distraction. After this he went to prayer by the bed side, and as he was in prayer mentioning Jacobs wrestling with God, his wife sate up in the bed, and casting aside the curtain said, <hi>Thou art this day Iacob, thou hast wrestled, and hast prevailed, and now God hath made good his word which he spake to you this morning, for I am pluck<g ref="char:EOLhyphen"/>ed out of the hands of Satan, and he shall no more have power over me.</hi> This interruption made him silent for a while, but after in great mel<g ref="char:EOLhyphen"/>tings of heart he proceeded in prayer, magnifiing the riches of di<g ref="char:EOLhyphen"/>vine grace and love, and from that hour his wife continued to dis<g ref="char:EOLhyphen"/>course christianly and comfortably even to her dying hour.</p>
+            <p>And as for those spiritual (which are worse then bodily possessi<g ref="char:EOLhyphen"/>on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) that Satan holds in the Souls of men, how often hath prayer been a means to out him, and cause him (full sore against his will)<note place="margin">Cla<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> to quit his strong hold for ever. Prayer hath (i. e. instrumentally) converted many a Soul, <hi>Peter Martyr</hi> was wont to pray much for the conversion of <hi>Bernard Gil<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r,</hi> and the Lord answered his prayers, and that <hi>Gilpin</hi> proved an eminent instrument of Gods Glory, and of good unto his Church.</p>
+            <p>I have read of one who having a Brother that spent his time in Hawking, drinking and other profane vanityes, upon a saturday, when his ungodly Brother was gone upon an bawking match, he set that very day apart by Fasting and prayer to beg of God, that his Brother might be converted. And the Lord answered his pray<g ref="char:EOLhyphen"/>ers<note place="margin">
+                  <hi>Mr.</hi> Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>his <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note> wonderfully; For within a week after <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is brother was strangely changed, and did himself (instead of spending his time in hawking and drinking) observe many dayes of secret humiliation between the Lord and his own soul, on the account of the sins he had been guilty of, in the days of vanity, &amp; made a very godly end at last.</p>
+            <p>That precious and f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mous Minister of Christ, Mr. <hi>Welc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> being in a journey, his entertainment came to more then he expected, so that the next morning he had not wherewith to pay for his horse meat: the Hostler sware and railed exceedingly for his money: Mr. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elch</hi>
+               <pb n="18" facs="tcp:93601:12"/> shut his chamber door and went to prayer, and the hostler standing at the door over heard him, and was converted by that prayer; ever after that time highly respecting Mr. <hi>Welch,</hi> and refusing to accept of any thing for his entertainment, either them or at any o<g ref="char:EOLhyphen"/>ther times afterwards, when occasion was offered.</p>
+            <p>I knew one, the son of an holy, and eminently faithfull Minister, who in some of the dayes of his youth had been wild and vain, but was (through the Grace of Christ) converted in his young years, and after his Fathers death, perusing his private papers, he per<g ref="char:EOLhyphen"/>ceived▪ that not many dayes before he was in the pangs of the new birth, his Father had been by secret Fasting and prayer seeking un<g ref="char:EOLhyphen"/>to the Lord that converting sanctifiing Grace might be bestowed upon that son of his.</p>
+            <p>That notable Israelite, Mr. <hi>Hugh Kennedy,</hi> Provost of Air in Scot<g ref="char:EOLhyphen"/>land, one day being long alone in prayer, while some of his intimate<note place="margin">
+                  <hi>Mr Levisto<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> i<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> supra cit it. p</hi> 441 4<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> friends stayed a great while to speak with him, upon their enquiry into the reason why he made them wait so long; he told them it was no won<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, <hi>for</hi> (said he) <hi>I have this day obteined mercy for me, and all mine.</hi> And so indeed it came to pass; for not so much as one of his children, but evident signe; of conversion and true godliness were observed in them. This was that <hi>Kennedy,</hi> who when he was a dying could say, <hi>If the wals of this house could speak, they could tell how many sweet dayes I have had in secr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t fellowship with God, and how familiar he hath been with my soul.</hi> This is he, concerning whom Mr. <hi>Welch</hi> once said, 'Happy is that City, yea happy is that nation that hath an <hi>Hugh Kennedy</hi> in it; I my self have certainly found the answers of his prayers to the Lord on my behalf. There is one pas<g ref="char:EOLhyphen"/>sage recorded concerning him which is exceeding strange. It is this.</p>
+            <p>One of his sons being absent at sea, On a certain night he rose early, before break of day, and came to his familiar friend <hi>Joh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Steward,</hi> and desired him to rise, and go with him into a room to pray, for (said he) my son with the rest of our Christian friends now at sea, are at the very nick of perishing. After he had spent some time in pouring out his soul before the Lord, he rose up cheerfully, saying, <hi>now are they safe.</hi> John Steward being amazed thereat, writ this down, with the day and hour, and at the return of the ship ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quiry, and found that in that very hour of that night, they then were in a most dangerous place, so that all hope that they should be s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved was taken away, only they were by an extraordinary unex<g ref="char:EOLhyphen"/>pected providence then delivered.</p>
+            <pb n="19" facs="tcp:93601:12"/>
+            <p>To draw to a Conclusion, let the world beware, of doing any wronge to a praying people. Such blasting strokes from God were upon those that set themselves against t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e reformed Churches and Professors (who were called <hi>Picc<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dines</hi>) in <hi>Bohemia</hi> of old that it became a proverbial speech, <hi>If any man be weary of his life, let him become an enemy to the Piccardines.</hi> So I say, <hi>If any man be weary of his life, let him b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>come an enemy to a Praying People,</hi> such as (through grace) many in <hi>New-England</hi> have been, and are to this day. And wo to that man, whoever he be, upon whom the Prayers of <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w-England</hi> shall fall, it were better for that man that a mill-stone were hanged about his neck, and be thrown therewith into the midst of the Sea. It is said concerning the Witnesses, Rev. 11. 5. <q rend="margQuotes">if any man hurt them, fire proceedeth out of their mouth, and devoureth their enemies, and if any man will hurt them, he must on this manner be killed.</q> Is not the spirit of prayer that fire? That Scottish Queen once professed, that she was more afaaid of Mr <hi>Knox</hi> his prayers, then of an army of ten thousand men.</p>
+            <p>And it is noted concerning <hi>Leolin</hi> Prince of▪ Wales, that being<note place="margin">Resert <hi>Dr Pow<g ref="char:EOLunhyphen"/>ell</hi>
+               </note> perswaded by some to take up arms against a Prince that was famous for Religion; he replyed that he was afraid of that mans prayers more then of Armyes.</p>
+            <p>Wherefore I shall finish this Discourse with the solemn expressi<g ref="char:EOLhyphen"/>on<note place="margin">M. blessed Bro<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r and Prede<g ref="char:EOLhyphen"/>cessor in this place, in his Sermons on a. King. 18. 4. p 74.</note> of one (whom I have peculiar reason to love) that was well known in this place seven and twenty years agoe. <hi>I had rather</hi> (saith he) <hi>be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nvi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oned with Army<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>med men, and compassed round with drawn swords and in <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>s of death, then that the least praying Saint should bend t<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is prayers against m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; for there is no stan<g ref="char:EOLhyphen"/>ding before the prayers of Saint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, especially if they unite their forces, and join together in the same requests.</hi> Rise up, O Lord, and let thine enemyes be scattered, and let them that hate thee, flee be<g ref="char:EOLhyphen"/>fore thee.</p>
+            <closer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
